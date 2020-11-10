@@ -1,0 +1,171 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+.logo
+{
+	width: 150px;
+	height: auto;
+}
+
+.foto
+{
+	width: 80px;
+	height: auto;
+}
+
+.fotomobo
+{
+	width: 60px;
+	height: auto;
+}
+
+body
+{
+	background-color: #343838;
+	color: #00B4CC;
+	font-family: 'Arial';
+	font-size: 1em;
+	min-width: 1070px;
+}
+
+div#headerleft
+{
+	float: left;
+}
+
+div#headerright
+{
+	float: right;
+}
+
+div#header
+{
+	height: 209px;
+
+}
+
+div#navigation
+{
+	float: left;
+	width: 29%;
+}
+
+div#content
+{
+	width: 70%;
+	float: right;
+}
+
+div#footer
+{
+	clear: both;
+}
+
+div.product
+{
+	background-color: #008C9E;
+	clear: both;
+	height: 100px;
+}
+
+div.productview
+{
+	background-color: gray;
+	clear: both;
+	height: 400px;
+}
+
+div div.productphoto
+{
+	float: left;
+	padding: 10px;
+}
+
+div div.productphoto img
+{
+	border: 2px solid silver;
+}
+
+div div.productphoto2
+{
+	float: left;
+	padding: 10px;
+}
+
+div div.productphoto2 img
+{
+	border: 2px solid silver;
+	height: 300px;
+}
+
+div div.producttitle
+{
+	padding: 10px;
+}
+
+
+div div.producttitle a
+{
+	color: #00DFFC;
+	font-size: 1.5em;
+}
+
+div div.producttitle span
+{
+	font-size: 1.5em;
+}
+
+
+div div.productdescription
+{
+	color: #00B4CC;
+}
+
+div div.productprice
+{
+	float: right;
+	margin: 0 10px 10px 0;
+	font-size: 1.5em;
+	font-family: Verdana;
+	color: #00B4CC;
+}
+
+p
+{
+	margin-bottom: 10px;
+}
+
+div#navigation ul
+{
+	padding: 10px;
+}
+
+div#navigation ul li
+{
+	background-color: #00B4CC;
+	padding: 10px;
+	margin-bottom: 10px;
+}
+
+div#navigation ul li a
+{
+	color: #005F6B;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+a
+{
+	color: #005F6B;
+	font-size: 1.2em;
+}
+
+div.quantity
+{
+	position: absolute;
+	font-size: 30px;
+	margin-left: 800px;
+}
